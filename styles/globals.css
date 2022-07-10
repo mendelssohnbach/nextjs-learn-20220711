@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho&family=Poppins:wght@200&display=swap');
+
+*>* {
+  font-family: 'Poppins', serif;
+}
+
 html,
 body {
   padding: 0;
