@@ -80,6 +80,6 @@
   },
   "editor.quickSuggestions": {
     "strings": true
-  }
+  },
+  "cSpell.words": ["nextjs", "noopener", "noreferrer", "rarr"]
 }
-
